@@ -7,11 +7,11 @@
 
     public function __construct($nombre,$correo) // implementacion del constructor 
     {
-        $this->vNombre=$nombre;     //esta varible es igual a esta variable temporal
+        $this->vNombre=$nombre;     //los datos que reciba de fuera (parametro) se guardaran en esta variable (atributo)
         $this->vCorreo=$correo;    
     }
 
-    public function getNombre() //lectura la variable privada
+    public function getNombre() //lectura de la variable privada
     {
         return $this->vNombre;
     }
