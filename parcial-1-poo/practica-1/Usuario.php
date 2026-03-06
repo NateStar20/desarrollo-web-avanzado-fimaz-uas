@@ -1,16 +1,17 @@
 <?php
- class Usuario {
 
-    private $vNombre;
+ class Usuario {  //Creacion de la clase Usuario
+
+    private $vNombre;   //Declaracion de los atributos privados
     private $vCorreo;
 
-    public function __construct($nombre,$correo)
+    public function __construct($nombre,$correo) // implementacion del constructor 
     {
-        $this->vNombre=$nombre;
+        $this->vNombre=$nombre;     //esta varible es igual a esta variable temporal
         $this->vCorreo=$correo;    
     }
 
-    public function getNombre() 
+    public function getNombre() //lectura la variable privada
     {
         return $this->vNombre;
     }
@@ -20,13 +21,15 @@
         return $this->vCorreo;
     }
 
-    public function setNombre()
+    public function setNombre($nombre) //Modificacion de la variable privada 
     {
-        return $this->vNombre;
+        $this->vNombre =$nombre;
     }
 
-    public function setCorreo()
+    public function setCorreo($correo)
     {
-        return $this->vCorreo;
+        $this->vCorreo = $correo;
     }
 }
+
+ 
