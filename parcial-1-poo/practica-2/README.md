@@ -22,7 +22,6 @@ Siguiendo el estándar de la asignatura, el código incluye bloques **DocBlock**
 **@package**: Agrupa las clases en el módulo correspondiente.
 **@param**: Define el tipo y descripción de los parámetros recibidos.
 **@return**: Indica el tipo de dato que el método devuelve al finalizar.
-**@version**: Controla la versión actual del desarrollo.
 
 
 
