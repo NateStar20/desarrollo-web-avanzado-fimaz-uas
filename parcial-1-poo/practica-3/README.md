@@ -1,5 +1,5 @@
 ## 1. Descripción del Sistema
-En esta práctica desarrollamos un pequeño sistema de gestión de perfiles aplicando Programación Orientada a Objetos en PHP.Desarrollar un sistema orientado a objetos más robusto, integrando herencia, validaciones y manejo de excepciones para simular un entorno profesional.
+En esta práctica desarrollamos un pequeño sistema de gestión de perfiles aplicando Programación Orientada a Objetos en PHP. El objetivo es desarrollar un sistema orientado a objetos más robusto, integrando herencia, validaciones y manejo de excepciones para simular un entorno profesional.
 
 ## 2. Explicación del Flujo de Clases
 El proyecto está organizado usando herencia para no repetir código. Tenemos una clase padre y dos clases hijas:
