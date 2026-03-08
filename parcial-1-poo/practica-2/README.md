@@ -30,11 +30,5 @@ Aunque comparten la misma estructura base, presentan diferencias funcionales:
 
 
 ## 4. Evidencia de ejecución
-La ejecución se realizó de forma exitosa en el servidor local **XAMPP**.
-* [cite_start]**Uso de Getters**: Se comprobó que el objeto `Admin` puede llamar a `getNombre()` sin errores, a pesar de estar definido en la clase padre[cite: 122].
-* **Resultado**: El navegador despliega correctamente el nombre, correo y el rol "Administrador".
+<img width="258" height="109" alt="image" src="https://github.com/user-attachments/assets/ad1fb07f-013f-473c-a5f3-a6d9f9bb5ab3" />
 
----
-[cite_start]**Docente:** Dr. José Alfonso Aguilar Calderón [cite: 14]  
-[cite_start]**Institución:** Universidad Autónoma de Sinaloa - FIMAZ [cite: 4, 2]  
-**Alumno:** Gerardo Sánchez
