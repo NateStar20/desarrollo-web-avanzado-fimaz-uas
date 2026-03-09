@@ -22,7 +22,7 @@ Para ejecutar esta práctica en un servidor local (como XAMPP), siga estos pasos
 
 1. **Ubicación**: Coloque los archivos `Usuario.php` e `index.php` dentro de la carpeta `htdocs/practica-1/`.
 2. **Servidor**: Inicie el módulo **Apache** desde el Panel de Control de XAMPP.
-3. **Acceso**: Abra su navegador y escriba la dirección: `http://localhost/practica-1/index.php`.
+3. **Acceso**: Abra su navegador y escriba la dirección: `http://localhost/Desarrollo%20web%20avanzado/parcial-1-poo/practica-1/index.php`.
 4. **Prueba**: "Las primeras dos lineas muestran los datos antes de usar los setters que es donde el nombre cambia ".
 
 ---
