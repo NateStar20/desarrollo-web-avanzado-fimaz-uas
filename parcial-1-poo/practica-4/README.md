@@ -16,7 +16,7 @@ Para ejecutar este proyecto correctamente en un entorno local, se requiere:
 ## 🚀 Ruta de ejecución en navegador
 Una vez clonado el repositorio dentro de la carpeta `htdocs` de XAMPP y con el servidor Apache encendido, el proyecto se puede visualizar ingresando la siguiente ruta en la barra de direcciones del navegador:
 
-`http://localhost/desarrollo-web-avanzado-fimaz-uas/practica-3/index.php`
+`http://localhost/Desarrollo%20web%20avanzado/parcial-1-poo/practica-4/index.php`
 
 *(Nota: La ruta puede variar ligeramente dependiendo del nombre exacto que tenga la carpeta del repositorio local).*
 
