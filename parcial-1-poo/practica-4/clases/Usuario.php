@@ -13,13 +13,13 @@ class Usuario {
      * El nombre completo del usuario.
      * @var string
      */
-    private $vNombre;
+    protected $vNombre;
 
     /**
      * La dirección de correo electrónico del usuario.
      * @var string
      */
-    private $vCorreo;
+    protected $vCorreo;
 
     /**
      * Constructor de la clase Usuario.
