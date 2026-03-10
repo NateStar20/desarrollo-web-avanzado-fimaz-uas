@@ -1,7 +1,7 @@
 <?php
 
 //Se incluye el archivo de la clase
-include 'Usuario.php'; 
+require 'Usuario.php'; 
 
 //Creacion de la instancia
 $objUsuario1 = new Usuario ("Gerardo Sanchez", "gerardosr118@gmail.com"); 
