@@ -14,6 +14,8 @@ El sistema cumple con los siguientes requerimientos técnicos:
 4.  **Manejo de Errores**: Uso de bloques `try-catch` en el `index.php` para capturar errores de validación sin detener la ejecución de la interfaz.
 5.  **Visualización**: Generación de una tabla dinámica en HTML que gestiona la visualización de la matrícula mediante lógica condicional de roles.
 6. **Resultado**:
+
+   
      <img width="722" height="293" alt="image" src="https://github.com/user-attachments/assets/a615a320-2480-4d5b-84a8-52d23ca142fb" />
 
 
